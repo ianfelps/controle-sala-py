@@ -1,8 +1,3 @@
-Claro! Aqui está o `README.md` atualizado com a seção **Participantes** no início e sem emojis:
-
----
-
-```markdown
 # controle-sala-py
 
 Sistema de controle concorrente de acesso a uma sala de reuniões com capacidade limitada, utilizando Python, Sockets, Threads e Semáforos.
@@ -95,11 +90,4 @@ Você pode abrir várias instâncias de clientes para simular acesso simultâneo
 [SAIU] ('127.0.0.1', 52142) | Total na sala: 4/5
 ```
 
----
 
-## Status
-
-Projeto finalizado e funcional, com comunicação bidirecional entre cliente e servidor e controle de ocupação em tempo real.
-```
-
-Se quiser, posso gerar este `README.md` como arquivo agora para você fazer o upload no GitHub. Deseja em `.md` ou `.pdf`?
