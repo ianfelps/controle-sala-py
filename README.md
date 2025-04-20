@@ -96,7 +96,6 @@ Digite o número da opção desejada e pressione Enter.
 
 #### **4. Encerrando o sistema**
 - Clientes devem escolher a opção `3` para encerrar sua sessão.
-- O servidor pode ser interrompido com `CTRL + C`.
 
 ---
 
