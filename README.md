@@ -52,7 +52,7 @@ controle-sala-py/
 
 ## Como Executar
 
-1. Clone o repositório
+1. Clone o Repositório
 ```bash
 git clone https://github.com/seu-usuario/controle-sala-py.git
 cd controle-sala-py
